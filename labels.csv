@@ -1,0 +1,54 @@
+filename                 ,shirt ,hoodie ,jacket ,jeans ,pants ,hat ,eyewear ,ring ,necklace ,watch ,shoes ,misc.
+vet_head.jpg             ,    0 ,     1 ,     0 ,    0 ,    0 ,  0 ,      1 ,   0 ,       0 ,    0 ,    0 ,    0
+kappa_vans.jpg           ,    0 ,     0 ,     0 ,    0 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+edgy_carti.jpg           ,    1 ,     0 ,     0 ,    0 ,    0 ,  0 ,      1 ,   1 ,       1 ,    0 ,    0 ,    0
+fat_greeny.jpg           ,    1 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   1 ,       1 ,    0 ,    1 ,    1
+bullsy.jpg               ,    1 ,     0 ,     0 ,    0 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+narcist.jpg              ,    1 ,     0 ,     0 ,    0 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+splatty.jpg              ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+gaultiergod.jpg          ,    1 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   1 ,       1 ,    0 ,    0 ,    0
+chrome.jpg               ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+qtpie.jpg                ,    1 ,     0 ,     1 ,    1 ,    1 ,  1 ,      1 ,   1 ,       0 ,    0 ,    1 ,    1
+balenci.jpg              ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+tropical.jpg             ,    1 ,     0 ,     0 ,    1 ,    0 ,  0 ,      1 ,   1 ,       0 ,    0 ,    0 ,    1
+alyxap.jpg               ,    0 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    1 ,    0 ,    0
+stussy_jacket.jpg        ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+moon_carti.jpg           ,    1 ,     0 ,     1 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+okay.jpg                 ,    1 ,     0 ,     0 ,    1 ,    0 ,  0 ,      1 ,   1 ,       1 ,    1 ,    1 ,    0
+cool_suit.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    1
+virgil_shoe.jpg          ,    0 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+vet_hat.png              ,    0 ,     0 ,     0 ,    0 ,    0 ,  1 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+vet_kitty.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  0 ,      0 ,   1 ,       0 ,    0 ,    0 ,    1 ,1
+patchy_jeans.jpg         ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+all_black.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  1 ,      1 ,   1 ,       1 ,    0 ,    1 ,    0
+chrome_jeans.jpeg        ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+pink.jpg                 ,    1 ,     0 ,     1 ,    1 ,    1 ,  0 ,      1 ,   1 ,       0 ,    1 ,    0 ,    1
+qtqt.jpg                 ,    1 ,     0 ,     0 ,    0 ,    0 ,  0 ,      1 ,   0 ,       0 ,    0 ,    0 ,    1
+narcist_2                ,    1 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+flower_boy.jpg           ,    1 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    0
+vet_balenci.jpg          ,    0 ,     1 ,     0 ,    1 ,    1 ,  0 ,      1 ,   1 ,       0 ,    0 ,    0 ,    0
+carti_love.jpg           ,    0 ,     1 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    1
+balenci_closer.jpg       ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+chrome_button.jpg        ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+stussy_jacket_2.jpg      ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+carti_love_closer.jpg    ,    0 ,     1 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    0
+gaultiergod_ongod.jpg    ,    1 ,     0 ,     0 ,    1 ,    1 ,  0 ,      1 ,   1 ,       0 ,    0 ,    0 ,    1
+diorking.jpg             ,    0 ,     0 ,     1 ,    1 ,    1 ,  0 ,      1 ,   0 ,       0 ,    0 ,    0 ,    1
+burberry_store.jpg       ,    1 ,     1 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+chromey.jpg              ,    1 ,     0 ,     0 ,    1 ,    1 ,  0 ,      1 ,   1 ,       1 ,    0 ,    0 ,    1
+duke_dennis.jpg          ,    1 ,     0 ,     0 ,    0 ,    1 ,  1 ,      1 ,   0 ,       0 ,    0 ,    1 ,    1
+chrome_af1.jpg           ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+tyler_cmifygl.jpeg       ,    1 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+purple_swag.jpg          ,    1 ,     0 ,     1 ,    0 ,    0 ,  1 ,      1 ,   1 ,       0 ,    0 ,    0 ,    1
+burb_coat.jpeg           ,    1 ,     1 ,     1 ,    0 ,    0 ,  1 ,      1 ,   1 ,       0 ,    0 ,    1 ,    1
+burb_coat_closer.jpeg    ,    1 ,     1 ,     1 ,    0 ,    0 ,  1 ,      1 ,   1 ,       0 ,    0 ,    1 ,    1
+chrome_black_hearts.jpeg ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+zebra_vw.jpeg            ,    1 ,     0 ,     0 ,    0,     1 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    0
+chrome_shirt.png         ,    1 ,     0 ,     0 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+chrome_shirt_closer.png  ,    1 ,     0 ,     0 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+vibey_india.jpeg         ,    1 ,     0 ,     0 ,    1,     0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    1 ,    0
+chrome_zip_back.jpg      ,    0 ,     0 ,     1 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+chrome_zip_front.jpg     ,    0 ,     0 ,     1 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+
+
+
