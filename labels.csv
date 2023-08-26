@@ -12,13 +12,13 @@ qtpie.jpg                ,    1 ,     0 ,     1 ,    1 ,    1 ,  1 ,      1 ,   
 balenci.jpg              ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
 tropical.jpg             ,    1 ,     0 ,     0 ,    1 ,    0 ,  0 ,      1 ,   1 ,       0 ,    0 ,    0 ,    1
 alyxap.jpg               ,    0 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    1 ,    0 ,    0
-stussy_jacket.jpg        ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+stussy_jacket.jpg        ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
 moon_carti.jpg           ,    1 ,     0 ,     1 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
 okay.jpg                 ,    1 ,     0 ,     0 ,    1 ,    0 ,  0 ,      1 ,   1 ,       1 ,    1 ,    1 ,    0
 cool_suit.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    1
 virgil_shoe.jpg          ,    0 ,     0 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
 vet_hat.png              ,    0 ,     0 ,     0 ,    0 ,    0 ,  1 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
-vet_kitty.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  0 ,      0 ,   1 ,       0 ,    0 ,    0 ,    1 ,1
+vet_kitty.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  0 ,      0 ,   1 ,       0 ,    0 ,    0 ,    1
 patchy_jeans.jpg         ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
 all_black.jpg            ,    1 ,     0 ,     1 ,    0 ,    1 ,  1 ,      1 ,   1 ,       1 ,    0 ,    1 ,    0
 chrome_jeans.jpeg        ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
@@ -30,7 +30,7 @@ vet_balenci.jpg          ,    0 ,     1 ,     0 ,    1 ,    1 ,  0 ,      1 ,   
 carti_love.jpg           ,    0 ,     1 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    1
 balenci_closer.jpg       ,    0 ,     0 ,     0 ,    1 ,    1 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
 chrome_button.jpg        ,    0 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
-stussy_jacket_2.jpg      ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    1
+stussy_jacket_2.jpg      ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
 carti_love_closer.jpg    ,    0 ,     1 ,     0 ,    0 ,    0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    0
 gaultiergod_ongod.jpg    ,    1 ,     0 ,     0 ,    1 ,    1 ,  0 ,      1 ,   1 ,       0 ,    0 ,    0 ,    1
 diorking.jpg             ,    0 ,     0 ,     1 ,    1 ,    1 ,  0 ,      1 ,   0 ,       0 ,    0 ,    0 ,    1
@@ -49,6 +49,17 @@ chrome_shirt_closer.png  ,    1 ,     0 ,     0 ,    0,     0 ,  0 ,      0 ,   
 vibey_india.jpeg         ,    1 ,     0 ,     0 ,    1,     0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    1 ,    0
 chrome_zip_back.jpg      ,    0 ,     0 ,     1 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
 chrome_zip_front.jpg     ,    0 ,     0 ,     1 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
-
-
+blackish.jpeg            ,    1 ,     0 ,     1 ,    1,     1 ,  1 ,      1 ,   1 ,       1 ,    0 ,    0 ,    1
+blackish_2.jpeg          ,    1 ,     0 ,     1 ,    1,     1 ,  1 ,      1 ,   1 ,       1 ,    0 ,    0 ,    1
+vet_cuh.png              ,    1 ,     0 ,     1 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    1
+flowery.jpg              ,    1 ,     0 ,     1 ,    1,     0 ,  0 ,      0 ,   1 ,       0 ,    0 ,    1 ,    0
+nike_offwhite.jpg        ,    0 ,     0 ,     0 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+safe_sex.jpg             ,    1 ,     0 ,     0 ,    0,     0 ,  0 ,      1 ,   1 ,       1 ,    0 ,    0 ,    0
+safe_sex_2.jpg           ,    1 ,     0 ,     0 ,    0,     0 ,  0 ,      0 ,   0 ,       1 ,    0 ,    0 ,    0
+nike_cactus.jpg          ,    0 ,     0 ,     0 ,    0,     0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
+stussy_jacket_3.png      ,    0 ,     0 ,     1 ,    0 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    0 ,    0
+clark.jpg                ,    1 ,     0 ,     0 ,    0 ,    1 ,  1 ,      1 ,   0 ,       0 ,    0 ,    1 ,    1
+mall_vibes.jpeg          ,    1 ,     0 ,     0 ,    0 ,    1 ,  0 ,      1 ,   1 ,       0 ,    0 ,    1 ,    0
+vet_chrarhartt.jpeg      ,    1 ,     1 ,     0 ,    1 ,    0 ,  0 ,      1 ,   0 ,       0 ,    0 ,    0 ,    1
+chrome_fit.png           ,    1 ,     0 ,     0 ,    1 ,    0 ,  0 ,      0 ,   0 ,       0 ,    0 ,    1 ,    0
 
